@@ -1,7 +1,7 @@
 {
   "name": "Painel Clínico APS",
   "short_name": "Painel APS",
-  "description": "Painel clínico APS offline para consulta rápida, registros, revisão e apoio operacional.",
+  "description": "Painel clínico APS com protocolos municipais, prescrições diretas, calculadoras e apoio operacional.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
